@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Edinburgh Napier Univeristy Moodle webpage</title>
+	<head>
+	
+	<div class="row">
+		<div class="col-8">col-8
+			<body>
+	
+	
+			<header>
+				<img src="https://moodle.napier.ac.uk/pluginfile.php/1/core_admin/logocompact/300x300/1643360525/site-logo-small.png">
+				<a href="https://en.wikipedia.org/wiki/Bilbao">Stduent Links</a>
+				<a href="https://en.wikipedia.org/wiki/Bilbao">Staff Links</a>
+				<a href="https://en.wikipedia.org/wiki/Bilbao">Library</a>
+				
+				<img src="images/lier.png">
+				<img src="images/lier.png">
+				
+				
+				<a href="https://en.wikipedia.org/wiki/Bilbao">Lier Martinez de Morentin</a>
+				<img src="https://moodle.napier.ac.uk/theme/image.php/boost/core/1643360525/u/f2">
+			</header>
+			
+		
+		
+			<h2>My Programme</h2>
+			
+			<section>
+				
+				<p>
+				
+					Your programme title
+					<a href="https://en.wikipedia.org/wiki/Windows_11"><h2>Algorithim and Data Structures</h2></a>
+					
+					Your programme leader	
+					<a href="https://en.wikipedia.org/wiki/Windows_11"><h4>Neil Urquhart</h4></a>
+					
+					Your programme Tutor
+					<a href="https://en.wikipedia.org/wiki/Windows_11"><h4>Neil Urqhuart</h4></a>
+					
+					Your programme Representatives </br>
+					Sorry...No programme rep information aviable. Please click the help icon for more information
+					
+				</p>
+				
+				
+			</section>
+			
+			<h2>Course Overview</h2>
+			
+			<section>
+				<h3>Notifications guide</h3>
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Assignments</h5></a>
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Unread forum posts</h5></a>
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Scheduled chat sessions</h5></a>
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Recent course updates</h5></a>
+
+			
+				
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h2>Algorithim and Data Structures</h2></a>
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h2>Software Engineering Method</h2></a>
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h2>Web Technologies</h2></a>
+				
+				
+			</section>
+			
+			<h2>Recently Accessed Courses</h2>
+			
+			<section>
+			
+				<p>
+				Software Engineering
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Algorithim and Data Structures</h5></a>
+				Software Engineering
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Software Engineering Method</h5></a>
+				Software Engineering
+				<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Web Technologies</h5></a>
+				</p>
+				
+			</section>
+		
+		</div>
+		
+		<div class="col-4">
+		<aside>
+			<h3>Calendar</h3>
+			<h5>February 2022</h5>
+			<table style="width:10%">
+			<tr>
+				<th>Monday</th>
+				<th>Tuesday</th>
+				<th>Wednesday</th>
+				<th>Thursday</th>
+				<th>Friday</th>
+				<th>Saturday</th>
+				<th>Sunday</th>
+			</tr>
+			<tr>
+				<td></td>
+				<td>1</td>
+				<td>2</td>
+				<td>3</td>
+				<td>4</td>
+				<td>5</td>
+				<td>6</td>
+			</tr>
+			</table>
+		</aside>
+			
+		<aside>
+			<h3>Upcoming Events</h3>
+			<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Github Link is due Today</h5></a>
+			<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Code review 1 is due Today</h5></a>
+			<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Go to calendar</h5></a>
+		</aside>
+		
+		<aside>
+			<h3>My Portfolio</h3>
+			<a href="https://en.wikipedia.org/wiki/Windows_11"><h5>Mahara ePortfolio</h5></a>
+		</aside>
+		
+		<aside>
+			<h3>Library Loans</h3>
+			<p>You have no currents loans</p>
+		</aside></div>
+	</div>
+	
+	
+		
+		
+		
+		<footer> &copy; 2020 - Lier Martinez de Morentin - all rigths reserved </footer>
+		
+	
+	</body>
+	
+</html>

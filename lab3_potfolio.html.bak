@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lier Martinez de Morentin, Napier student</title>
+	<head>
+	
+	<body>
+	
+	
+		<header>
+		Lier Martinez de Morentin
+		<hr />
+		<header>
+		
+		<nav>
+		<a href="https://en.wikipedia.org/wiki/Bilbao">Hobbies</a>
+		<a href="https://en.wikipedia.org/wiki/Bilbao">Uni Terms Marks</a>
+		<a href="https://en.wikipedia.org/wiki/Bilbao">Bilbao</a>
+		<a href="https://en.wikipedia.org/wiki/Bilbao">Bilbao</a>
+		
+		</nav>
+	
+		<h1>Lier Martinez de Morentin at Edinburgh Napier Univeristy</h1>
+		
+		<section>
+			<h2>Who is Lier?</h2>
+			<p>
+			Lier is a Basque citizent, born in
+			<a href="https://en.wikipedia.org/wiki/Bilbao">Bilbao</a>
+			, the 5th of October of 2002. 
+			Which the same day in 2021 Microsoft released
+			<a href="https://en.wikipedia.org/wiki/Windows_11">Windows 11</a>
+			. He still havent installed it...
+			His volleyball career started when he was 12 years old, and since the he has been playing non-stop. At 16 he discovered 
+			beach volleyball, which he fell in love even more. He likes having many friends and have company most of the time.
+			Also he tryes to avoid all conflits he can, as he hates them, even if sometimes is just not possible.
+			every time he can, even if sometimes is inevitable.
+			His both parents work in computering, and even if he had prohibited studying the same, he found the perfect place to study it.
+			</p>
+			
+			<figure>
+				<img src="images/lier.png">
+				<figcaption>Fig1 - Lier, Getxo, Basque Country</figcaption>
+			</figure>
+		</section>
+		
+		<footer> &copy; 2020 - Lier Martinez de Morentin - all rigths reserved</footer>
+		
+	
+	</body>
+	
+</html>
